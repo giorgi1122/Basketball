@@ -1,0 +1,90 @@
+img{
+  height: 50px;
+  width: 50px;
+}
+
+.BACK{
+  
+  width: 800px;
+  height: 540PX;
+  background-image: url(https://thumbs.dreamstime.com/b/blue-basketball-court-floor-line-background-basketball-field-vector-illustration-blue-basketball-court-floor-line-139337643.jpg);
+  margin-top: 80px;
+  margin-left: 520px;
+}
+#img{
+  position: absolute;
+  border: 4px white solid;
+  width: 50px;
+  height: 50px;
+  border-radius: 20%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 45px;
+}
+.h1 {
+  
+  border: 2px solid cadetblue;
+  text-align:center; 
+  color:yellow;
+  margin-left: 518px;
+  margin-right: 590px;
+  
+}
+
+.thompson{
+  margin-left: 690px;
+  margin-top: 232px;
+
+}
+.curry{
+  
+  margin-left: 405px;
+  margin-top: 232px;
+}
+.green
+{
+ 
+  margin-left: 550px;
+  margin-top: 232px;
+}
+.poole
+{
+ 
+  margin-left: 550px;
+  margin-top: 400px;
+}
+.lee{
+
+  margin-left: 550px;
+  margin-top: 63px;
+}
+.young
+{
+
+  margin-left: 337px;
+  margin-top: 232px;
+}
+.collins{
+  
+  margin-left: 191px;
+  margin-top: 232px;
+}
+.capela{
+ 
+  margin-left: 52px;
+  margin-top: 232px;
+}
+.huerter{
+  
+  margin-left: 191px;
+  margin-top: 63px;
+}
+.dunn
+{
+  
+  margin-left: 191px;
+  margin-top: 400px;
+}
+
+
+
